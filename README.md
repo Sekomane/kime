@@ -2,7 +2,7 @@
 
 This is a responsive, visually elegant **portfolio website** created for **Kime Nail & Beauty Salon**, designed to showcase the salon's services, style, and contact details in a clean and user-friendly layout.
 
-> 🔗 **Live Site:** [Click here to view](https://sekomane.github.io/kime-Hair_Salon/)
+> 🔗 **Live Site:** [Click here to view](https://sekomane.github.io/Kime Nail & beauty salon.html)
 
 ---
 
